@@ -1,0 +1,22 @@
+.jumbotron{
+    padding: 10px;
+    background-color:rgb(224, 224, 240);
+}
+.b-example-divider{
+    background-color: gray;
+    height: 7px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 2rem;
+    opacity: 20%;
+}
+.align-items-md-stretch{
+    width: auto;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+.h2{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
